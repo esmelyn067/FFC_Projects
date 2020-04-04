@@ -1,0 +1,24 @@
+
+-------My Technnical Documentation Page(Draft)
+
+
+
+Topic:AngularJS
+
+-Introduction
+***code1
+What you should know
+-Why Angular JS?
+-Alternatives
+-Extensibility
+**Code2
+-Add some control:
+a)Data Binding
+b)Controller
+c)Plain JavaScript
+**Code3
+-Create Components
+a)Directives
+b)Reusable Components
+c)Localization
+-Reference
